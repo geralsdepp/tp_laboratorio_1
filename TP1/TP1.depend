@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1490231412 source:e:\utn\programación 2017\tps\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490229444 e:\utn\programación 2017\tps\tp1\funciones.h
+
+1490309609 source:e:\utn\programación 2017\tps\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490461792 source:l:\utn\programación 2017\tps\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490309841 l:\utn\programación 2017\tps\tp1\funciones.h
+
+1490309841 source:l:\utn\programación 2017\tps\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
