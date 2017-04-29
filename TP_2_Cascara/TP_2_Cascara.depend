@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1493341755 source:f:\utn\programación.2017\tps\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493342093 f:\utn\programación.2017\tps\tp_2_cascara\funciones.h
+
+1493427411 source:d:\utn\programación.2017\tps\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493427679 d:\utn\programación.2017\tps\tp_2_cascara\funciones.h
+
+1493427679 source:d:\utn\programación.2017\tps\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493431965 source:c:\users\alexis.chas\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493432724 c:\users\alexis.chas\desktop\tp_2_cascara\funciones.h
+
+1493444499 source:c:\users\alexis.chas\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+
+1493445313 source:c:\users\alexis.chas\desktop\tp_2_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1493440059 c:\users\alexis.chas\desktop\tp_2_cascara\validaciones.h
+
