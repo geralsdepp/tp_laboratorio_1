@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1493946190 source:d:\meza geraldine\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1493945915 d:\meza geraldine\parcial1\misfunciones.h
+
+1493934903 source:d:\meza geraldine\parcial1\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1493934903 d:\meza geraldine\parcial1\misvalidaciones.h
+
+1493946111 source:d:\meza geraldine\parcial1\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"misValidaciones.h"
+
