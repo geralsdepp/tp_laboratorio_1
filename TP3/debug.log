@@ -1,0 +1,7 @@
+[0602/193748.563:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0602/193749.319:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0602/193749.335:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0602/193750.723:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0602/200837.046:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0602/200837.526:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0602/200837.794:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled

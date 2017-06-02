@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1495952579 source:c:\users\alumno\desktop\tp3\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1495949152 c:\users\alumno\desktop\tp3\misvalidaciones.h
+
+1496088494 source:c:\users\alumno\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+	"abm.h"
+
+1496088894 c:\users\alumno\desktop\tp3\misfunciones.h
+
+1496441959 source:c:\users\geral\desktop\tp3\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1496441287 c:\users\geral\desktop\tp3\abm.h
+	"misFunciones.h"
+
+1496443811 c:\users\geral\desktop\tp3\misfunciones.h
+
+1495949152 c:\users\geral\desktop\tp3\misvalidaciones.h
+
+1496443794 source:c:\users\geral\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+	"abm.h"
+
+1496444641 source:c:\users\geral\desktop\tp3\misfunciones.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misFunciones.h"
+
+1495952579 source:c:\users\geral\desktop\tp3\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1496088871 source:c:\users\alumno\desktop\tp3\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1496088785 c:\users\alumno\desktop\tp3\abm.h
+	"misFunciones.h"
+
+1496088672 source:c:\users\alumno\desktop\tp3\misfunciones.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misFunciones.h"
+
