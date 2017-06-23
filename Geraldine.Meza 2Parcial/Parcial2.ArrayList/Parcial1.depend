@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1493946190 source:d:\meza geraldine\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1493945915 d:\meza geraldine\parcial1\misfunciones.h
+
+1493934903 source:d:\meza geraldine\parcial1\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1493934903 d:\meza geraldine\parcial1\misvalidaciones.h
+
+1493946111 source:d:\meza geraldine\parcial1\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1494290203 source:c:\users\alexis.chas\desktop\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1494305129 c:\users\alexis.chas\desktop\parcial1\misfunciones.h
+
+1494298963 source:c:\users\alexis.chas\desktop\parcial1\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1494270792 c:\users\alexis.chas\desktop\parcial1\misvalidaciones.h
+
+1494305824 source:c:\users\alexis.chas\desktop\parcial1\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1494270792 source:l:\utn\programación.2017\parcial1\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1494270792 l:\utn\programación.2017\parcial1\misvalidaciones.h
+
+1494272936 source:l:\utn\programación.2017\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1494274203 l:\utn\programación.2017\parcial1\misfunciones.h
+
+1494290203 source:c:\users\geral\desktop\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1494305129 c:\users\geral\desktop\parcial1\misfunciones.h
+
+1494437877 source:c:\users\geral\desktop\parcial1\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1494270792 c:\users\geral\desktop\parcial1\misvalidaciones.h
+
+1494298963 source:c:\users\geral\desktop\parcial1\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1495064296 source:e:\utn\programación.2017\parcial1\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1494305129 e:\utn\programación.2017\parcial1\misfunciones.h
+
+1494270792 e:\utn\programación.2017\parcial1\misvalidaciones.h
+
+1494298963 source:e:\utn\programación.2017\parcial1\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1495061357 source:e:\utn\programación.2017\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1495061357 source:c:\users\alumno\desktop\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1494305129 c:\users\alumno\desktop\parcial1\misfunciones.h
+
+1495061941 source:c:\users\alumno\desktop\parcial1\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"misValidaciones.h"
+
+1494270792 c:\users\alumno\desktop\parcial1\misvalidaciones.h
+
+1494298963 source:c:\users\alumno\desktop\parcial1\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1498092582 source:c:\users\alumno\desktop\parcial2.arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+	"ArrayList.h"
+
+1498091628 c:\users\alumno\desktop\parcial2.arraylist\misfunciones.h
+	"ArrayList.h"
+
+1498093859 source:c:\users\alumno\desktop\parcial2.arraylist\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"ArrayList.h"
+	"misSetsyGets.h"
+	"misValidaciones.h"
+
+1494270792 c:\users\alumno\desktop\parcial2.arraylist\misvalidaciones.h
+
+1498094127 source:c:\users\alumno\desktop\parcial2.arraylist\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1498024238 source:c:\users\alumno\desktop\parcial2.arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497481124 c:\users\alumno\desktop\parcial2.arraylist\arraylist.h
+
+1498024238 source:c:\users\geral\desktop\parcial2.arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497481124 c:\users\geral\desktop\parcial2.arraylist\arraylist.h
+
+1498103103 source:c:\users\geral\desktop\parcial2.arraylist\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1494270792 c:\users\geral\desktop\parcial2.arraylist\misvalidaciones.h
+
+1498153352 source:c:\users\geral\desktop\parcial2.arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+	"ArrayList.h"
+
+1498159408 c:\users\geral\desktop\parcial2.arraylist\misfunciones.h
+	"ArrayList.h"
+
+1498072046 c:\users\alumno\desktop\parcial2.arraylist\missetsygets.h
+	"misFunciones.h"
+
+1498091644 source:c:\users\alumno\desktop\parcial2.arraylist\missetsygets.c
+	"misSetsyGets.h"
+	"misFunciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1498158863 source:c:\users\geral\desktop\parcial2.arraylist\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"ArrayList.h"
+	"misSetsyGets.h"
+	"misValidaciones.h"
+
+1498072046 c:\users\geral\desktop\parcial2.arraylist\missetsygets.h
+	"misFunciones.h"
+
+1498153627 source:c:\users\geral\desktop\parcial2.arraylist\missetsygets.c
+	"misSetsyGets.h"
+	"misFunciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1498024238 source:d:\geraldine.meza 2parcial\parcial2.arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497481124 d:\geraldine.meza 2parcial\parcial2.arraylist\arraylist.h
+
+1498172681 source:d:\geraldine.meza 2parcial\parcial2.arraylist\missetsygets.c
+	"misSetsyGets.h"
+	"misFunciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1498171515 d:\geraldine.meza 2parcial\parcial2.arraylist\missetsygets.h
+	"misFunciones.h"
+
+1498177440 d:\geraldine.meza 2parcial\parcial2.arraylist\misfunciones.h
+	"ArrayList.h"
+	<stdio.h>
+	<stdlib.h>
+
+1498173030 source:d:\geraldine.meza 2parcial\parcial2.arraylist\misvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misValidaciones.h"
+
+1494270792 d:\geraldine.meza 2parcial\parcial2.arraylist\misvalidaciones.h
+
+1498178918 source:d:\geraldine.meza 2parcial\parcial2.arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+	"ArrayList.h"
+
+1498176417 source:d:\geraldine.meza 2parcial\parcial2.arraylist\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"misFunciones.h"
+	"ArrayList.h"
+	"misSetsyGets.h"
+	"misValidaciones.h"
+
